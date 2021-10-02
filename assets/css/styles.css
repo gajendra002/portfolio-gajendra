@@ -133,8 +133,8 @@ img{
     position: fixed;
     top: var(--header-height);
     right: -100%;
-    width: 110%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
     padding: 2rem;
     background-color: var(--second-color);
     transition: .5s;
