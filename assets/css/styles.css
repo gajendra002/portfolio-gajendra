@@ -132,8 +132,8 @@ img{
   .nav__menu{
     position: fixed;
     top: var(--header-height);
-    right: -50%;
-    width: 80%;
+    right: -100%;
+    width: 110%;
     height: 100%;
     padding: 2rem;
     background-color: var(--second-color);
